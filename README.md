@@ -10,6 +10,12 @@
 
 https://www.youtube.com/watch?v=PqkWT92BT3U&ab_channel=PhilippLackner
 
+https://stackoverflow.com/questions/7478023/how-to-set-background-color-in-the-xml-layout
+
+https://stackoverflow.com/questions/64715253/cant-change-buttons-background-color-in-xml-android-studio
+
+https://www.geeksforgeeks.org/toolbar-in-android-with-example/
+
 ## Verbal Collaboration
 
 | Student Name | CCID      |
