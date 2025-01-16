@@ -3,12 +3,12 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Mazen Khafagy`
+- **CCID:** `mkhafagy`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+https://www.youtube.com/watch?v=PqkWT92BT3U&ab_channel=PhilippLackner
 
 ## Verbal Collaboration
 
